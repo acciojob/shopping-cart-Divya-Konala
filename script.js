@@ -1,5 +1,6 @@
 //your code here
 let grandtotal = 0;
+
 function addData(){
     let name=document.querySelector("#item-name-input").value;
     let qty=document.querySelector("#item-qty-input").value;
